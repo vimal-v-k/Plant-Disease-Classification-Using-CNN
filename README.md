@@ -40,6 +40,4 @@ pip install -r requirements.txt
 - Confusion matrix
 - Sample predictions on test images
 
-## 📄 License
 
-MIT License
